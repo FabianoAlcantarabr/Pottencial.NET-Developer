@@ -1,0 +1,45 @@
+
+Síntaxe e Indexação:
+
+Classe: é onde se faz a codificação no C# e vem seu arquivo vem com a extensão .cs
+Arquivo.csproj- arquivo de projeto do c#, conhecido como metadados, usa extensão xml
+Abstração e programação orientada a Objeto
+Classe: 1-Atributo;
+	2-Métodos(Argumentos)
+Método é a ação que a classe irá executar
+Toda Classe começa com letra Maiuscula
+get - pega o valor
+set - atribui o valor
+
+Sintaxe - Conj de Regras que se tem que obdecer obrigatóriamente.
+Conversão - Padrão de escrita
+Convenção Cases no Código
+Classe: PascalCase sempre
+Propriedade: PascalCase
+Atributos: PascalCase
+Método: PascalCase
+Variável:camelCase
+
+OBS: Nunca abrevie nome das propriedades; nime da classe e sempre bom seguir o nome do arquivo
+Não pode usar caracteres específicos em conversão de nomes e variáveis somente o _
+ 
+Link de Estudos:
+https://docs.microsoft.com/en-us/dotnet/core/tools/
+https://docs.microsoft.com/pt-br/dotnet/csharp/fundamentals/coding-style/co
+ding-conventions
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/general-n
+aming-conventions
+https://www.tutorialspoint.com/csharp/csharp_basic_syntax.htm
+https://www.ralms.net/dica/entity%20framework%20core/snakecase/
+
+		TIPOS DE DADOS
+Sempre que usar o decimal use o M após o número quando for usar o mnetário.
+
+
+		DATA TIMES
+DataTime.Now - e adata do computador
+ToString define o modelo da data("dd/MM/yyyy")("HH:mm")
+
+Link
+https://www.tutorialspoint.com/csharp/csharp_data_types.htm
+https://docs.microsoft.com/pt-br/dotnet/api/system.datetime?view=net-6.0

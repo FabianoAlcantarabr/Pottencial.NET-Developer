@@ -1,0 +1,11 @@
+		Clonar o Github para sua Máquina:
+
+1 - Passo:
+ No repositório já criado no github pegue a chave código : git@github.com:FabianoAlcantarabr/DesafioGitHub-DIO.git,
+2 - Passo:
+ Abra o Git Bash Here na pasta do seu diretório onde armazenará a pasta do Github
+3 - Passo:
+ Com o Git Bash aberto digite o comando : git clone git@github.com:FabianoAlcantarabr/DesafioGitHub-DIO.git
+4 - Passo:
+ Entre na pasta do repositório : cd (nome da pasta)
+5 - Passo

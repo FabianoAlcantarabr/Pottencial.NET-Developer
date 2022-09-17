@@ -1,0 +1,8 @@
+Como salvar o que foi feito na máquina local no git:
+
+1- no Git Bash Here, digite:
+		git status;
+		git add . ou * ou -A (esse comando prepara todos os arquivos criados ou modificados);
+		git commit -m "escreve um comentário"; (comando que acopla todos os arquivos criado e modificados);
+		git push origin main (envia todos os aquivos para o repositório Github).
+	

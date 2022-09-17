@@ -1,0 +1,12 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\bin\Debug\net6.0\Bootcamp_Pottencial.Common.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\bin\Debug\net6.0\Bootcamp_Pottencial.Common.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\bin\Debug\net6.0\Bootcamp_Pottencial.Common.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\obj\Debug\net6.0\Bootcamp_Pottencial.Common.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\obj\Debug\net6.0\Bootcamp_Pottencial.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\obj\Debug\net6.0\Bootcamp_Pottencial.Common.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\obj\Debug\net6.0\Bootcamp_Pottencial.Common.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\obj\Debug\net6.0\Bootcamp_Pottencial.Common.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\obj\Debug\net6.0\Bootcamp_Pottencial.Common.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\obj\Debug\net6.0\refint\Bootcamp_Pottencial.Common.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\obj\Debug\net6.0\Bootcamp_Pottencial.Common.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Bootcamp_Pottencial.NET\Bootcamp_Pottencial.Common\obj\Debug\net6.0\ref\Bootcamp_Pottencial.Common.dll

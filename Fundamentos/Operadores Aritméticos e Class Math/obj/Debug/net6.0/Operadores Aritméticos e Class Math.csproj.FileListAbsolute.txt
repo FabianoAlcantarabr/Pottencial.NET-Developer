@@ -1,0 +1,15 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\bin\Debug\net6.0\Operadores Aritméticos e Class Math.exe
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\bin\Debug\net6.0\Operadores Aritméticos e Class Math.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\bin\Debug\net6.0\Operadores Aritméticos e Class Math.runtimeconfig.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\bin\Debug\net6.0\Operadores Aritméticos e Class Math.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\bin\Debug\net6.0\Operadores Aritméticos e Class Math.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\obj\Debug\net6.0\Operadores Aritméticos e Class Math.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\obj\Debug\net6.0\Operadores Aritméticos e Class Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\obj\Debug\net6.0\Operadores Aritméticos e Class Math.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\obj\Debug\net6.0\Operadores Aritméticos e Class Math.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\obj\Debug\net6.0\Operadores Aritméticos e Class Math.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\obj\Debug\net6.0\Operadores Aritméticos e Class Math.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\obj\Debug\net6.0\refint\Operadores Aritméticos e Class Math.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\obj\Debug\net6.0\Operadores Aritméticos e Class Math.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\obj\Debug\net6.0\Operadores Aritméticos e Class Math.genruntimeconfig.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Criando o Repositório Github\DesafioGitHub-DIO\Operadores Aritméticos e Class Math\obj\Debug\net6.0\ref\Operadores Aritméticos e Class Math.dll

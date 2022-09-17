@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bootcamp_Pottencial/1.0.0": {
+        "dependencies": {
+          "Bootcamp_Pottencial.Common": "1.0.0"
+        },
+        "runtime": {
+          "Bootcamp_Pottencial.dll": {}
+        }
+      },
+      "Bootcamp_Pottencial.Common/1.0.0": {
+        "runtime": {
+          "Bootcamp_Pottencial.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bootcamp_Pottencial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bootcamp_Pottencial.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
