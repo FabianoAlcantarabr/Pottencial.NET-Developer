@@ -1,7 +1,10 @@
-# Desafio Git/GitHub-DIO
+# Pottencial.NET - Developer
+Certificados do Bootcamp
 Primeiro Desafio Git/Github do Bootcamp Pottencial.Net Developer
 
-Criação do  Arquivo  Bootcamp_Pottencial.NET, onde será colocado todos os projetos  deste módulo em diante.
+Criação do Repositório de Fundamentos.
+Criação do Repositório Desafio de Fundamentos.
+
 
 
 
