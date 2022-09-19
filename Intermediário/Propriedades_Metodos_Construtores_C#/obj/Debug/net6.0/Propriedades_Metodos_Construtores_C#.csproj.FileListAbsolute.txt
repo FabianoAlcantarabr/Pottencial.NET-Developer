@@ -1,0 +1,15 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\bin\Debug\net6.0\Propriedades_Metodos_Construtores_C#.exe
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\bin\Debug\net6.0\Propriedades_Metodos_Construtores_C#.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\bin\Debug\net6.0\Propriedades_Metodos_Construtores_C#.runtimeconfig.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\bin\Debug\net6.0\Propriedades_Metodos_Construtores_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\bin\Debug\net6.0\Propriedades_Metodos_Construtores_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\obj\Debug\net6.0\Propriedades_Metodos_Construtores_C#.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\obj\Debug\net6.0\Propriedades_Metodos_Construtores_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\obj\Debug\net6.0\Propriedades_Metodos_Construtores_C#.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\obj\Debug\net6.0\Propriedades_Metodos_Construtores_C#.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\obj\Debug\net6.0\Propriedades_Metodos_Construtores_C#.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\obj\Debug\net6.0\Propriedades_Metodos_Construtores_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\obj\Debug\net6.0\refint\Propriedades_Metodos_Construtores_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\obj\Debug\net6.0\Propriedades_Metodos_Construtores_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\obj\Debug\net6.0\Propriedades_Metodos_Construtores_C#.genruntimeconfig.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Propriedades_Metodos_Construtores_C#\obj\Debug\net6.0\ref\Propriedades_Metodos_Construtores_C#.dll
