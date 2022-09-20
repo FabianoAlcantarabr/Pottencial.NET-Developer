@@ -1,0 +1,15 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\bin\Debug\net6.0\Exceções_e_Coleções_C#.exe
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\bin\Debug\net6.0\Exceções_e_Coleções_C#.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\bin\Debug\net6.0\Exceções_e_Coleções_C#.runtimeconfig.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\bin\Debug\net6.0\Exceções_e_Coleções_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\bin\Debug\net6.0\Exceções_e_Coleções_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\obj\Debug\net6.0\Exceções_e_Coleções_C#.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\obj\Debug\net6.0\Exceções_e_Coleções_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\obj\Debug\net6.0\Exceções_e_Coleções_C#.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\obj\Debug\net6.0\Exceções_e_Coleções_C#.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\obj\Debug\net6.0\Exceções_e_Coleções_C#.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\obj\Debug\net6.0\Exceções_e_Coleções_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\obj\Debug\net6.0\refint\Exceções_e_Coleções_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\obj\Debug\net6.0\Exceções_e_Coleções_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\obj\Debug\net6.0\Exceções_e_Coleções_C#.genruntimeconfig.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Exceções_e_Coleções_C#\obj\Debug\net6.0\ref\Exceções_e_Coleções_C#.dll
