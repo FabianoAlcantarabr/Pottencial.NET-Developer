@@ -39,26 +39,6 @@ else
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /// Criando Pilha /////
 
 // Stack<int> pilha = new Stack<int>();

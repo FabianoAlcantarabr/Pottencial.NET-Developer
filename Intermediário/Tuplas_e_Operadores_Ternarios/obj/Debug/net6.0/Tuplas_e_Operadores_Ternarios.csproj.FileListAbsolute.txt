@@ -1,0 +1,15 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\bin\Debug\net6.0\Tuplas_e_Operadores_Ternarios.exe
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\bin\Debug\net6.0\Tuplas_e_Operadores_Ternarios.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\bin\Debug\net6.0\Tuplas_e_Operadores_Ternarios.runtimeconfig.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\bin\Debug\net6.0\Tuplas_e_Operadores_Ternarios.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\bin\Debug\net6.0\Tuplas_e_Operadores_Ternarios.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\obj\Debug\net6.0\Tuplas_e_Operadores_Ternarios.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\obj\Debug\net6.0\Tuplas_e_Operadores_Ternarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\obj\Debug\net6.0\Tuplas_e_Operadores_Ternarios.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\obj\Debug\net6.0\Tuplas_e_Operadores_Ternarios.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\obj\Debug\net6.0\Tuplas_e_Operadores_Ternarios.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\obj\Debug\net6.0\Tuplas_e_Operadores_Ternarios.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\obj\Debug\net6.0\refint\Tuplas_e_Operadores_Ternarios.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\obj\Debug\net6.0\Tuplas_e_Operadores_Ternarios.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\obj\Debug\net6.0\Tuplas_e_Operadores_Ternarios.genruntimeconfig.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tuplas_e_Operadores_Ternarios\obj\Debug\net6.0\ref\Tuplas_e_Operadores_Ternarios.dll
