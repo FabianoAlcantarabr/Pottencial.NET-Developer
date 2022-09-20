@@ -16,6 +16,12 @@ namespace Tuplas_e_Operadores_Ternarios.Models
             Nome = nome;
             Sobrenome = sobrenome;
         }
+
+        public void Deconstruct(out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
+        }
         private string _nome;
         private int _idade;
         public string Nome
