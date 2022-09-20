@@ -1,0 +1,15 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\bin\Debug\net6.0\Manipulando_Valores_C#.exe
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\bin\Debug\net6.0\Manipulando_Valores_C#.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\bin\Debug\net6.0\Manipulando_Valores_C#.runtimeconfig.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\bin\Debug\net6.0\Manipulando_Valores_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\bin\Debug\net6.0\Manipulando_Valores_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\obj\Debug\net6.0\Manipulando_Valores_C#.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\obj\Debug\net6.0\Manipulando_Valores_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\obj\Debug\net6.0\Manipulando_Valores_C#.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\obj\Debug\net6.0\Manipulando_Valores_C#.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\obj\Debug\net6.0\Manipulando_Valores_C#.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\obj\Debug\net6.0\Manipulando_Valores_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\obj\Debug\net6.0\refint\Manipulando_Valores_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\obj\Debug\net6.0\Manipulando_Valores_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\obj\Debug\net6.0\Manipulando_Valores_C#.genruntimeconfig.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Manipulando_Valores_C#\obj\Debug\net6.0\ref\Manipulando_Valores_C#.dll
