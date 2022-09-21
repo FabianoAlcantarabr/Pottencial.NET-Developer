@@ -1,0 +1,15 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\bin\Debug\net6.0\Desafio_Código_Basico_C#.exe
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\bin\Debug\net6.0\Desafio_Código_Basico_C#.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\bin\Debug\net6.0\Desafio_Código_Basico_C#.runtimeconfig.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\bin\Debug\net6.0\Desafio_Código_Basico_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\bin\Debug\net6.0\Desafio_Código_Basico_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\obj\Debug\net6.0\Desafio_Código_Basico_C#.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\obj\Debug\net6.0\Desafio_Código_Basico_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\obj\Debug\net6.0\Desafio_Código_Basico_C#.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\obj\Debug\net6.0\Desafio_Código_Basico_C#.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\obj\Debug\net6.0\Desafio_Código_Basico_C#.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\obj\Debug\net6.0\Desafio_Código_Basico_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\obj\Debug\net6.0\refint\Desafio_Código_Basico_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\obj\Debug\net6.0\Desafio_Código_Basico_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\obj\Debug\net6.0\Desafio_Código_Basico_C#.genruntimeconfig.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Desafio_Código_Basico_C#\obj\Debug\net6.0\ref\Desafio_Código_Basico_C#.dll
