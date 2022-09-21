@@ -1,0 +1,17 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\Tipos_Especiais_C#.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\Tipos_Especiais_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\Tipos_Especiais_C#.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\Tipos_Especiais_C#.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\Tipos_Especiais_C#.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\bin\Debug\net6.0\Tipos_Especiais_C#.exe
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\bin\Debug\net6.0\Tipos_Especiais_C#.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\bin\Debug\net6.0\Tipos_Especiais_C#.runtimeconfig.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\bin\Debug\net6.0\Tipos_Especiais_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\bin\Debug\net6.0\Tipos_Especiais_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\Tipos_Especiais_C#.csproj.CopyComplete
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\Tipos_Especiais_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\refint\Tipos_Especiais_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\Tipos_Especiais_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\Tipos_Especiais_C#.genruntimeconfig.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Tipos_Especiais_C#\obj\Debug\net6.0\ref\Tipos_Especiais_C#.dll
