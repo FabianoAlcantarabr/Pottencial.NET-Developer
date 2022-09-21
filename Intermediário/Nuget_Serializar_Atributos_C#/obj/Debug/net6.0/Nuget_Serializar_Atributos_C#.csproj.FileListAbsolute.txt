@@ -1,0 +1,17 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\bin\Debug\net6.0\Nuget_Serializar_Atributos_C#.exe
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\bin\Debug\net6.0\Nuget_Serializar_Atributos_C#.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\bin\Debug\net6.0\Nuget_Serializar_Atributos_C#.runtimeconfig.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\bin\Debug\net6.0\Nuget_Serializar_Atributos_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\bin\Debug\net6.0\Nuget_Serializar_Atributos_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\Nuget_Serializar_Atributos_C#.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\Nuget_Serializar_Atributos_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\Nuget_Serializar_Atributos_C#.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\Nuget_Serializar_Atributos_C#.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\Nuget_Serializar_Atributos_C#.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\Nuget_Serializar_Atributos_C#.csproj.CopyComplete
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\Nuget_Serializar_Atributos_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\refint\Nuget_Serializar_Atributos_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\Nuget_Serializar_Atributos_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\Nuget_Serializar_Atributos_C#.genruntimeconfig.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Intermediário\Nuget_Serializar_Atributos_C#\obj\Debug\net6.0\ref\Nuget_Serializar_Atributos_C#.dll
