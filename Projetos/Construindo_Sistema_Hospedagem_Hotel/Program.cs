@@ -15,14 +15,14 @@ hospedes.Add(h2);
 hospedes.Add(h3);
 hospedes.Add(h4);
 
-Suite suite = new Suite(tipoSuite: "Diamond", capacidade: 4, valorDiaria: 1500M);
+Suite suite = new Suite(tipoSuite: "Diamond", capacidade: 4, valorDiaria: 789.60M);
 
 Reserva reserva = new Reserva(diasReservados: 10);
 reserva.CadastrarSuite(suite);
 reserva.CadastrarHospedes(hospedes);
 
 Console.WriteLine($"Nº de Hóspedes: {reserva.ObterQuantidadeHospedes()}");
-Console.WriteLine($"Valor da Hospedagem: {reserva.CalcularValorDiaria()}");
+Console.WriteLine($"Valor da Hospedagem é: {reserva.CalcularValorDiaria():C2}");
 
 
 

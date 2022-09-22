@@ -21,13 +21,13 @@ namespace Construindo_Sistema_Hospedagem_Hotel.Models
         public void CadastrarHospedes(List<Hospedes> hospedes)
         {
 
-            if(true)
+            if(hospedes.Count <= Suite.Capacidade)
             {
                 Hospedes = hospedes;
             }
             else
             {
-
+                throw new Exception("Suite não comporta essa quantidade de Hóspedes!");
             }
 
         }
@@ -38,18 +38,22 @@ namespace Construindo_Sistema_Hospedagem_Hotel.Models
         }
         public int ObterQuantidadeHospedes()
         {
-
-            return 0;
+            int quantidadeHospedes = 0;
+            if( Hospedes != null)
+            {
+                quantidadeHospedes = Hospedes.Count;
+            }
+            return quantidadeHospedes;
         }
         public decimal CalcularValorDiaria()
         {
-
-
-            decimal valor = 0;
-
-            if(true)
+            decimal valor = DiasReservados * Suite.ValorDiaria;
+            
+            if(DiasReservados >= 10)
             {
-                valor = 0;
+                decimal Periodo = DiasReservados * Suite.ValorDiaria;
+                decimal Desconto = (Periodo * 10) / 100M;
+                valor = (DiasReservados * Suite.ValorDiaria) - Desconto;
             }
 
             return valor;
