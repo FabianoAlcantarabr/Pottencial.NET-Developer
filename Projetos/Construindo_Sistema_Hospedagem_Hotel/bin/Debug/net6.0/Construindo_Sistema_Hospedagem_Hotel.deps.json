@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Construindo_Sistema_Hospedagem_Hotel/1.0.0": {
+        "runtime": {
+          "Construindo_Sistema_Hospedagem_Hotel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Construindo_Sistema_Hospedagem_Hotel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
