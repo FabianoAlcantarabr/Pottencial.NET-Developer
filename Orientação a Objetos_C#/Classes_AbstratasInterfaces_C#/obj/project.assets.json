@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\biano\\Desktop\\Bootcamp - Dio\\Pottencial.NET-Developer\\Pottencial.NET-Developer\\Orientação a Objetos_C#\\Classe_Abstrata_Interfaces_C#\\Classe_Abstrata_Interfaces_C#.csproj",
+      "projectUniqueName": "C:\\Users\\biano\\Desktop\\Bootcamp - Dio\\Pottencial.NET-Developer\\Pottencial.NET-Developer\\Orientação a Objetos_C#\\Classes_AbstratasInterfaces_C#\\Classe_Abstrata_Interfaces_C#.csproj",
       "projectName": "Classe_Abstrata_Interfaces_C#",
-      "projectPath": "C:\\Users\\biano\\Desktop\\Bootcamp - Dio\\Pottencial.NET-Developer\\Pottencial.NET-Developer\\Orientação a Objetos_C#\\Classe_Abstrata_Interfaces_C#\\Classe_Abstrata_Interfaces_C#.csproj",
+      "projectPath": "C:\\Users\\biano\\Desktop\\Bootcamp - Dio\\Pottencial.NET-Developer\\Pottencial.NET-Developer\\Orientação a Objetos_C#\\Classes_AbstratasInterfaces_C#\\Classe_Abstrata_Interfaces_C#.csproj",
       "packagesPath": "C:\\Users\\biano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\biano\\Desktop\\Bootcamp - Dio\\Pottencial.NET-Developer\\Pottencial.NET-Developer\\Orientação a Objetos_C#\\Classe_Abstrata_Interfaces_C#\\obj\\",
+      "outputPath": "C:\\Users\\biano\\Desktop\\Bootcamp - Dio\\Pottencial.NET-Developer\\Pottencial.NET-Developer\\Orientação a Objetos_C#\\Classes_AbstratasInterfaces_C#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
