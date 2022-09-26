@@ -1,0 +1,15 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\bin\Debug\net6.0\Int_Abstração_Encapsulamento_C#.exe
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\bin\Debug\net6.0\Int_Abstração_Encapsulamento_C#.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\bin\Debug\net6.0\Int_Abstração_Encapsulamento_C#.runtimeconfig.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\bin\Debug\net6.0\Int_Abstração_Encapsulamento_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\bin\Debug\net6.0\Int_Abstração_Encapsulamento_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\obj\Debug\net6.0\Int_Abstração_Encapsulamento_C#.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\obj\Debug\net6.0\Int_Abstração_Encapsulamento_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\obj\Debug\net6.0\Int_Abstração_Encapsulamento_C#.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\obj\Debug\net6.0\Int_Abstração_Encapsulamento_C#.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\obj\Debug\net6.0\Int_Abstração_Encapsulamento_C#.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\obj\Debug\net6.0\Int_Abstração_Encapsulamento_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\obj\Debug\net6.0\refint\Int_Abstração_Encapsulamento_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\obj\Debug\net6.0\Int_Abstração_Encapsulamento_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\obj\Debug\net6.0\Int_Abstração_Encapsulamento_C#.genruntimeconfig.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Int_Abstração_Encapsulamento_C#\obj\Debug\net6.0\ref\Int_Abstração_Encapsulamento_C#.dll
