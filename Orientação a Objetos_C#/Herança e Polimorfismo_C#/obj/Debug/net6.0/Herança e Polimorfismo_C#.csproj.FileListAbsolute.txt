@@ -1,0 +1,15 @@
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\bin\Debug\net6.0\Herança e Polimorfismo_C#.exe
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\bin\Debug\net6.0\Herança e Polimorfismo_C#.deps.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\bin\Debug\net6.0\Herança e Polimorfismo_C#.runtimeconfig.json
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\bin\Debug\net6.0\Herança e Polimorfismo_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\bin\Debug\net6.0\Herança e Polimorfismo_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\obj\Debug\net6.0\Herança e Polimorfismo_C#.csproj.AssemblyReference.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\obj\Debug\net6.0\Herança e Polimorfismo_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\obj\Debug\net6.0\Herança e Polimorfismo_C#.AssemblyInfoInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\obj\Debug\net6.0\Herança e Polimorfismo_C#.AssemblyInfo.cs
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\obj\Debug\net6.0\Herança e Polimorfismo_C#.csproj.CoreCompileInputs.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\obj\Debug\net6.0\Herança e Polimorfismo_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\obj\Debug\net6.0\refint\Herança e Polimorfismo_C#.dll
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\obj\Debug\net6.0\Herança e Polimorfismo_C#.pdb
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\obj\Debug\net6.0\Herança e Polimorfismo_C#.genruntimeconfig.cache
+C:\Users\biano\Desktop\Bootcamp - Dio\Pottencial.NET-Developer\Pottencial.NET-Developer\Orientação a Objetos_C#\Herança e Polimorfismo_C#\obj\Debug\net6.0\ref\Herança e Polimorfismo_C#.dll
